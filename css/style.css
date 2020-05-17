@@ -292,6 +292,13 @@ header .intro-text {
 	color: #555;
 	margin-top: -36px;
 }
+
+/* Routine section */
+#routine {
+	display:none;
+	position: absolute;
+}
+
 /* Gallery Section */
 #gallery {
 	padding: 0;
